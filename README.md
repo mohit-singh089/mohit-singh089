@@ -1,4 +1,4 @@
-
+[![MasterHead](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47y79sb78o8c6hw6c9076b7exurvehmefhfdyy2c7p&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm mohit kumar singh</h1>
 <h3 align="center">currently studying</h3>
 <img align="right" alt="coding" width="400"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
